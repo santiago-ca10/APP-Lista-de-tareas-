@@ -8,7 +8,7 @@ Permite agregar, editar, eliminar y completar tareas.
 -Java 
 -Swing (Interfaz Gráfica)
 -Patrón MVC
-
+j
   🛠️ Funcionalidades
 
 -➕ Agregar tareas
