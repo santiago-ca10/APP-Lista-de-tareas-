@@ -1,19 +1,19 @@
-  Descripción
+  **Descripción**
 
 Aplicación de lista de tareas en Java usando Swing y el patrón MVC.
 Permite agregar, editar, eliminar y completar tareas.
 
-  🚀 Tecnologías
+  **Tecnologías**
 
 -Java 
 -Swing (Interfaz Gráfica)
 -Patrón MVC
 j
-  🛠️ Funcionalidades
+  **Funcionalidades**
 
 -➕ Agregar tareas
 -🛠️ Editar tareas
 -❌ Eliminar tareas
 -✅ Marcar tareas como completadas
 
-¡Gracias por ver este proyecto!
+**¡Gracias por ver este proyecto!**
